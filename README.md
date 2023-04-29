@@ -4,4 +4,4 @@ Simply select your desired password length and choose which character options yo
 
 It is built using HTML, CSS, and Vanilla Javascript. Take control of your digital security and generate strong, unique passwords with ease using my password generator web app.
 
-**`https://shubhams-password-generator.netlify.app/`**
+https://shubhams-password-generator.netlify.app/
